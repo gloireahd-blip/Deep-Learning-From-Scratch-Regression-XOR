@@ -8,7 +8,7 @@ Ce dépôt présente une série d'implémentations fondamentales de l'intelligen
 
 Le fichier principal regroupe trois étapes clés de l'apprentissage automatique :
 
-1. **Régression Linéaire** : Apprentissage de relations simples de type $y = ax + b$.
+1. **Régression Linéaire** : Apprentissage de relations simples de type $$y = ax + b$$.
 2. **Régression Polynomiale "From Scratch"** : 
    - Modélisation de relations non-linéaires complexes.
    - Apprentissage d'une courbe par l'ajustement des poids et des puissances des variables d'entrée.
@@ -31,7 +31,7 @@ $$MSE = \frac{1}{m} \sum_{i=1}^{m} (\hat{y}_i - y_i)^2$$
 ### 3. Backpropagation (Mise à jour des Poids)
 L'apprentissage se fait via la descente de gradient pour minimiser l'erreur :
 $$W_{nouveau} = W_{ancien} - \eta \cdot \frac{\partial Loss}{\partial W}$$
-*(Où $\eta$ représente le Learning Rate)*
+(Où $$\eta$$ représente le Learning Rate)
 
 ## 📁 Fichiers
 - `deepLearning_from_scratch.ipynb` : Le notebook complet contenant les trois implémentations, les explications mathématiques et les visualisations graphiques (Matplotlib).
