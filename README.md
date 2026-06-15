@@ -55,7 +55,7 @@ $$W_{new} = W_{old} - \eta \cdot \frac{\partial \text{Loss}}{\partial W}$$
 ---
 
 ## 📁 Repository Structure
-- `deepLearning_from_scratch.ipynb`: A comprehensive standalone Jupyter Notebook containing all vectorised NumPy implementations, step-by-step calculus layouts, and interactive Matplotlib visualization wrappers.
+* [**`DeepLearning_from_scratch.ipynb`**](DeepLearning_from_scratch.ipynb): A comprehensive standalone Jupyter Notebook containing all vectorised NumPy implementations, step-by-step calculus layouts, and interactive Matplotlib visualization wrappers.
 
 ---
 *Note: Computational graphs and matrix shapes have been structurally flattened to guarantee high performance on lightweight edge hardware configurations.*
