@@ -50,7 +50,7 @@ $$W_{new} = W_{old} - \eta \cdot \frac{\partial \text{Loss}}{\partial W}$$
   <img src="https://github.com/user-attachments/assets/1ce493f2-f66e-4a56-866e-f30d1b7628e1" alt="XOR Neural Network Decision Boundary" width="50%" />
 </p>
 
-*Figure: Comparative visualization of training execution phases — Linear Regression trend lines (left), Polynomial tracking optimization (center), and the non-linear decision landscape mapping out the XOR logical criteria (right).*
+*Figure: Comparative visualization of training execution phases — Linear Regression Trend Column (1), Polynomial tracking optimization (2), and the non-linear decision landscape mapping out the XOR logical criteria (3).*
 
 ---
 
